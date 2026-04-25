@@ -1,0 +1,4 @@
+FinMind
+streamlit
+pandas
+pandas_ta
